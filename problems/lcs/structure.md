@@ -1,8 +1,8 @@
-Problem Name: "Longest Common Subsequence"
-Function Name: sum
+Problem Name: Longest Common Subsequence
+Function Name: lcs
 Input Structure:
-Input Field: int num1
-Input Field: int num2
+Input Field: string s1
+Input Field: string s2
 Output Structure:
 Output Field: int result
 
